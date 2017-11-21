@@ -1,0 +1,22 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Electron-Desktop-App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FateXRebirth/Electron-Desktop-App.git"
+  },
+  "author": "FateXRebirth",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6"
+  },
+  "bugs": {
+    "url": "https://github.com/FateXRebirth/Electron-Desktop-App/issues"
+  },
+  "homepage": "https://github.com/FateXRebirth/Electron-Desktop-App#readme"
+}
